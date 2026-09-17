@@ -51,7 +51,7 @@ labs from try hack me for practice you knowledge
 
 ▪ Intro PoC Scripting
 
-o Challenges Labs
+## o Challenges Labs
 
 ▪ Source
 
@@ -77,7 +77,7 @@ o Challenges Labs
 
 ▪ Vulnversity
 
-# ▪ Burp Suite : (All Modules)
+▪ Burp Suite : (All Modules)
 
 ▪ File Inclusion
 
@@ -103,7 +103,7 @@ o Challenges Labs
 
 ▪ Year of the Pig
 
-- WPScan
+# WPScan
 
 ## o Challenge Labs
 
