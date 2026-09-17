@@ -109,7 +109,7 @@ labs from try hack me for practice you knowledge
 
 ▪ Blog
 
-- CrackMapExec (CME)
+# CrackMapExec (CME)
 
 ## o Challenge Labs
 
@@ -131,7 +131,7 @@ labs from try hack me for practice you knowledge
 
 ▪ GoldenEye
 
-# ▪ UndiscoveredSurpass Ejpt2 with THM (walkthroughs and challenges Labs)
+▪ Undiscovered
 
 ▪ KoTH Hackers
 
@@ -153,7 +153,7 @@ labs from try hack me for practice you knowledge
 
 ▪ For Business Reasons
 
-- Enumeration
+# Enumeration
 
 ## o Walkthrough Labs
 
